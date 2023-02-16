@@ -1,4 +1,10 @@
 .intro {
+  background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(242, 211, 150, 0.164) 95%);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll, fixed;
+  background-position: 0 0%, center top;
+
   color: #fff;
   padding: 60px;
   margin-top: 76px;
