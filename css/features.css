@@ -6,3 +6,12 @@
 .features-image {
   width: 300px;
 }
+
+.list ul li:before {
+  content: "\2014";
+  margin-right: 0.5em;
+}
+
+.list ul {
+  list-style-type: none;
+}
